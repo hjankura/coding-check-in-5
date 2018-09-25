@@ -11,5 +11,8 @@ h1 {
   font-weight: lighter;
 }
 .instructions {
-  line-height: 2.5 
+  line-height: 2.5
+}
+.intro-para {
+  color: #000080;
 }
