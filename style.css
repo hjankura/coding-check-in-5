@@ -1,9 +1,15 @@
 h1 {
   text-align: center;
+  font-family: fantasy;
+  color: #000080;
 }
 .note-to-reader {
   text-align: center;
 }
 .citation-info {
   text-align: center;
+  font-weight: lighter;
+}
+.instructions {
+  line-height: 2.5 
 }
